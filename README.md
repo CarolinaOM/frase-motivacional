@@ -18,3 +18,7 @@ Este proyecto es una sencilla aplicación web creada con React y Framer Motion q
 ### Objetivo:
 
 El objetivo de esta aplicación es brindar inspiración y motivación a los usuarios de forma dinámica y visualmente atractiva, facilitando un momento positivo en su día a día.
+
+### Probar el boton con las frases motivacionales
+
+[aqui](https://frase-motivacional.netlify.app/)
