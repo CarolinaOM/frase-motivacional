@@ -21,3 +21,5 @@ El objetivo de esta aplicación es brindar inspiración y motivación a los usua
 
 ### Probar el boton con las frases motivacionales
 [aqui](https://frase-motivacional.netlify.app/)
+
+(public/mi-animacion.gif)
